@@ -1,4 +1,4 @@
-[Журнал]()
+[Журнал](https://docs.google.com/spreadsheets/d/1aA5Q0ital9v5CK3GNpz0vwRTUC_pWcC1UIgE6tN1H2Q/)
 
 Цель курса - получить практические полезные навыки разработки на современном JVM стеке в написании серверов.
 
@@ -14,7 +14,7 @@
 
 Использовать стабильные версии фреймворков, библиотек, языков. При написании придерживаться языковым конвенциям [Java](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html), [Kotlin](https://kotlinlang.org/docs/coding-conventions.html). 
 
-Следовать принципам разработки ПО, таким как SOLID, DRY, KISS и др.
+Следовать принципам разработки ПО, таким к SOLID, DRY, KISS и др.
 
 При разработке использовать git feature branching strategy. При выборе имен для коммитов необходимо придерживаться [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
